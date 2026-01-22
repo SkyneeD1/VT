@@ -1,0 +1,4 @@
+streamlit
+pymupdf
+camelot-py[cv]
+pandas
